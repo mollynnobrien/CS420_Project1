@@ -1,0 +1,79 @@
+﻿Build started 9/15/2016 11:34:45 AM.
+     1>Project "C:\Users\Elizabeth\Dropbox\CS 420\Project1\filter.c\filter.c\filter.c.vcxproj" on node 2 (ClCompile target(s)).
+     1>ClCompile:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TC /analyze- /errorReport:prompt filter.c
+         filter.c
+     1>c:\users\elizabeth\dropbox\cs 420\project1\filter.c\filter.c\filter.c(58): warning C4013: 'gettimeofday' undefined; assuming extern returning int
+     1>c:\users\elizabeth\dropbox\cs 420\project1\filter.c\filter.c\filter.c(61): error C2143: syntax error : missing ';' before 'type'
+     1>c:\users\elizabeth\dropbox\cs 420\project1\filter.c\filter.c\filter.c(61): error C2143: syntax error : missing ';' before 'type'
+     1>c:\users\elizabeth\dropbox\cs 420\project1\filter.c\filter.c\filter.c(61): error C2143: syntax error : missing ')' before 'type'
+     1>c:\users\elizabeth\dropbox\cs 420\project1\filter.c\filter.c\filter.c(61): error C2143: syntax error : missing ';' before 'type'
+     1>c:\users\elizabeth\dropbox\cs 420\project1\filter.c\filter.c\filter.c(61): error C2065: 'y' : undeclared identifier
+     1>c:\users\elizabeth\dropbox\cs 420\project1\filter.c\filter.c\filter.c(61): warning C4552: '<' : operator has no effect; expected operator with side-effect
+     1>c:\users\elizabeth\dropbox\cs 420\project1\filter.c\filter.c\filter.c(61): error C2065: 'y' : undeclared identifier
+     1>c:\users\elizabeth\dropbox\cs 420\project1\filter.c\filter.c\filter.c(61): error C2059: syntax error : ')'
+     1>c:\users\elizabeth\dropbox\cs 420\project1\filter.c\filter.c\filter.c(61): error C2143: syntax error : missing ';' before '{'
+     1>c:\users\elizabeth\dropbox\cs 420\project1\filter.c\filter.c\filter.c(63): error C2143: syntax error : missing ';' before 'type'
+     1>c:\users\elizabeth\dropbox\cs 420\project1\filter.c\filter.c\filter.c(63): error C2143: syntax error : missing ';' before 'type'
+     1>c:\users\elizabeth\dropbox\cs 420\project1\filter.c\filter.c\filter.c(63): error C2143: syntax error : missing ')' before 'type'
+     1>c:\users\elizabeth\dropbox\cs 420\project1\filter.c\filter.c\filter.c(63): error C2143: syntax error : missing ';' before 'type'
+     1>c:\users\elizabeth\dropbox\cs 420\project1\filter.c\filter.c\filter.c(63): error C2065: 'x' : undeclared identifier
+     1>c:\users\elizabeth\dropbox\cs 420\project1\filter.c\filter.c\filter.c(63): warning C4552: '<' : operator has no effect; expected operator with side-effect
+     1>c:\users\elizabeth\dropbox\cs 420\project1\filter.c\filter.c\filter.c(63): error C2065: 'x' : undeclared identifier
+     1>c:\users\elizabeth\dropbox\cs 420\project1\filter.c\filter.c\filter.c(63): error C2059: syntax error : ')'
+     1>c:\users\elizabeth\dropbox\cs 420\project1\filter.c\filter.c\filter.c(63): error C2143: syntax error : missing ';' before '{'
+     1>c:\users\elizabeth\dropbox\cs 420\project1\filter.c\filter.c\filter.c(65): error C2065: 'x' : undeclared identifier
+     1>c:\users\elizabeth\dropbox\cs 420\project1\filter.c\filter.c\filter.c(65): error C2065: 'y' : undeclared identifier
+     1>c:\users\elizabeth\dropbox\cs 420\project1\filter.c\filter.c\filter.c(67): error C2065: 'x' : undeclared identifier
+     1>c:\users\elizabeth\dropbox\cs 420\project1\filter.c\filter.c\filter.c(67): error C2065: 'x' : undeclared identifier
+     1>c:\users\elizabeth\dropbox\cs 420\project1\filter.c\filter.c\filter.c(91): error C2143: syntax error : missing ';' before 'type'
+     1>c:\users\elizabeth\dropbox\cs 420\project1\filter.c\filter.c\filter.c(91): error C2143: syntax error : missing ';' before 'type'
+     1>c:\users\elizabeth\dropbox\cs 420\project1\filter.c\filter.c\filter.c(91): error C2143: syntax error : missing ')' before 'type'
+     1>c:\users\elizabeth\dropbox\cs 420\project1\filter.c\filter.c\filter.c(91): error C2143: syntax error : missing ';' before 'type'
+     1>c:\users\elizabeth\dropbox\cs 420\project1\filter.c\filter.c\filter.c(91): error C2065: 'x' : undeclared identifier
+     1>c:\users\elizabeth\dropbox\cs 420\project1\filter.c\filter.c\filter.c(91): warning C4552: '<' : operator has no effect; expected operator with side-effect
+     1>c:\users\elizabeth\dropbox\cs 420\project1\filter.c\filter.c\filter.c(91): error C2065: 'x' : undeclared identifier
+     1>c:\users\elizabeth\dropbox\cs 420\project1\filter.c\filter.c\filter.c(91): error C2059: syntax error : ')'
+     1>c:\users\elizabeth\dropbox\cs 420\project1\filter.c\filter.c\filter.c(91): error C2143: syntax error : missing ';' before '{'
+     1>c:\users\elizabeth\dropbox\cs 420\project1\filter.c\filter.c\filter.c(93): error C2143: syntax error : missing ';' before 'type'
+     1>c:\users\elizabeth\dropbox\cs 420\project1\filter.c\filter.c\filter.c(93): error C2143: syntax error : missing ';' before 'type'
+     1>c:\users\elizabeth\dropbox\cs 420\project1\filter.c\filter.c\filter.c(93): error C2143: syntax error : missing ')' before 'type'
+     1>c:\users\elizabeth\dropbox\cs 420\project1\filter.c\filter.c\filter.c(93): error C2143: syntax error : missing ';' before 'type'
+     1>c:\users\elizabeth\dropbox\cs 420\project1\filter.c\filter.c\filter.c(93): error C2065: 'y' : undeclared identifier
+     1>c:\users\elizabeth\dropbox\cs 420\project1\filter.c\filter.c\filter.c(93): warning C4552: '<' : operator has no effect; expected operator with side-effect
+     1>c:\users\elizabeth\dropbox\cs 420\project1\filter.c\filter.c\filter.c(93): error C2065: 'y' : undeclared identifier
+     1>c:\users\elizabeth\dropbox\cs 420\project1\filter.c\filter.c\filter.c(93): error C2059: syntax error : ')'
+     1>c:\users\elizabeth\dropbox\cs 420\project1\filter.c\filter.c\filter.c(93): error C2143: syntax error : missing ';' before '{'
+     1>c:\users\elizabeth\dropbox\cs 420\project1\filter.c\filter.c\filter.c(95): error C2065: 'x' : undeclared identifier
+     1>c:\users\elizabeth\dropbox\cs 420\project1\filter.c\filter.c\filter.c(95): error C2065: 'y' : undeclared identifier
+     1>c:\users\elizabeth\dropbox\cs 420\project1\filter.c\filter.c\filter.c(97): error C2065: 'x' : undeclared identifier
+     1>c:\users\elizabeth\dropbox\cs 420\project1\filter.c\filter.c\filter.c(97): error C2065: 'x' : undeclared identifier
+     1>c:\users\elizabeth\dropbox\cs 420\project1\filter.c\filter.c\filter.c(126): error C2143: syntax error : missing ';' before 'type'
+     1>c:\users\elizabeth\dropbox\cs 420\project1\filter.c\filter.c\filter.c(126): error C2143: syntax error : missing ';' before 'type'
+     1>c:\users\elizabeth\dropbox\cs 420\project1\filter.c\filter.c\filter.c(126): error C2143: syntax error : missing ')' before 'type'
+     1>c:\users\elizabeth\dropbox\cs 420\project1\filter.c\filter.c\filter.c(126): error C2143: syntax error : missing ';' before 'type'
+     1>c:\users\elizabeth\dropbox\cs 420\project1\filter.c\filter.c\filter.c(126): error C2065: 'i' : undeclared identifier
+     1>c:\users\elizabeth\dropbox\cs 420\project1\filter.c\filter.c\filter.c(126): warning C4552: '<' : operator has no effect; expected operator with side-effect
+     1>c:\users\elizabeth\dropbox\cs 420\project1\filter.c\filter.c\filter.c(126): error C2065: 'i' : undeclared identifier
+     1>c:\users\elizabeth\dropbox\cs 420\project1\filter.c\filter.c\filter.c(126): error C2059: syntax error : ')'
+     1>c:\users\elizabeth\dropbox\cs 420\project1\filter.c\filter.c\filter.c(127): error C2143: syntax error : missing ';' before '{'
+     1>c:\users\elizabeth\dropbox\cs 420\project1\filter.c\filter.c\filter.c(128): error C2065: 'i' : undeclared identifier
+     1>c:\users\elizabeth\dropbox\cs 420\project1\filter.c\filter.c\filter.c(128): error C2065: 'i' : undeclared identifier
+     1>c:\users\elizabeth\dropbox\cs 420\project1\filter.c\filter.c\filter.c(130): error C2065: 'i' : undeclared identifier
+     1>c:\users\elizabeth\dropbox\cs 420\project1\filter.c\filter.c\filter.c(149): warning C4013: 'posix_memalign' undefined; assuming extern returning int
+     1>c:\users\elizabeth\dropbox\cs 420\project1\filter.c\filter.c\filter.c(170): error C2143: syntax error : missing ';' before 'type'
+     1>c:\users\elizabeth\dropbox\cs 420\project1\filter.c\filter.c\filter.c(170): error C2143: syntax error : missing ';' before 'type'
+     1>c:\users\elizabeth\dropbox\cs 420\project1\filter.c\filter.c\filter.c(170): error C2143: syntax error : missing ')' before 'type'
+     1>c:\users\elizabeth\dropbox\cs 420\project1\filter.c\filter.c\filter.c(170): error C2143: syntax error : missing ';' before 'type'
+     1>c:\users\elizabeth\dropbox\cs 420\project1\filter.c\filter.c\filter.c(170): error C2065: 'filter_len' : undeclared identifier
+     1>c:\users\elizabeth\dropbox\cs 420\project1\filter.c\filter.c\filter.c(170): warning C4552: '<=' : operator has no effect; expected operator with side-effect
+     1>c:\users\elizabeth\dropbox\cs 420\project1\filter.c\filter.c\filter.c(170): error C2065: 'filter_len' : undeclared identifier
+     1>c:\users\elizabeth\dropbox\cs 420\project1\filter.c\filter.c\filter.c(170): error C2059: syntax error : ')'
+     1>c:\users\elizabeth\dropbox\cs 420\project1\filter.c\filter.c\filter.c(171): error C2143: syntax error : missing ';' before '{'
+     1>c:\users\elizabeth\dropbox\cs 420\project1\filter.c\filter.c\filter.c(172): error C2065: 'filter_len' : undeclared identifier
+     1>c:\users\elizabeth\dropbox\cs 420\project1\filter.c\filter.c\filter.c(175): error C2065: 'filter_len' : undeclared identifier
+     1>Done Building Project "C:\Users\Elizabeth\Dropbox\CS 420\Project1\filter.c\filter.c\filter.c.vcxproj" (ClCompile target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:01.66
